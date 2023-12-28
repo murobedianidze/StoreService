@@ -103,7 +103,7 @@ font-size: 2rem;
   color: rgb(0, 0, 0,0.8);
 }
 .menu_icon:hover{
-  filter: drop-shadow( 10px 2px 4px rgb(41, 41, 41));  
+  filter: drop-shadow( 10px 2px 15px rgb(41, 41, 41));  
   transition: 0.3s;
 }
 .menu_div{

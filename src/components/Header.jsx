@@ -43,7 +43,6 @@ function Header({storeData}) {
                   <h2><a href="#Men's Clothing">Men's Clothing</a></h2>
                   <h2><a href="#Woman's Clothing">Womans's Clothing</a></h2>
                   <h2><a href="#jewelery">Jewelery</a></h2>
-                  <h2><a href="#SaleOffers">Sale offers</a></h2>
                   <h2><a href="#footer_contact">Contact</a></h2>
                   <p className='exit_icon' onClick={()=>setShowMenu(false)}><FaRegWindowClose/></p>
               </div>

@@ -176,3 +176,5 @@ const addToCartHandler=(item)=>{
 }
 
 export default HomePage
+
+
